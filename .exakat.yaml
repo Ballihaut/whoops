@@ -2,5 +2,5 @@ project: "Exakat Audit"
 project_name: "Exakat Audit Name"
 project_reports:
     - Text
-project_themes: 
+project_rulesets: 
     - Security
