@@ -1,8 +1,6 @@
-project: "EXAKAT Campaign"
-project_name: "EXAKAT Campaign"
-project_rulesets: 
-    - ExakatRules
-
-rulesets:
-    ExakatRules:
-        - Security/DontEchoError
+project: "Exakat Audit"
+project_name: "Exakat Audit Name"
+project_reports:
+    - Text
+project_themes: 
+    - Security
